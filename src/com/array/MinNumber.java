@@ -11,7 +11,7 @@ public class MinNumber {
 		
 		for(int i=0;i<number.length;i++) {
 			
-			if(min>number[i]) {
+			if(number[i]< min) {
 				min=number[i];
 			}
 		}
