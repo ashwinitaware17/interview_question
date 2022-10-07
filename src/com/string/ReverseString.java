@@ -11,7 +11,7 @@ public class ReverseString {
 			reverseString=reverseString+ch;
 			
 		}
-		System.out.println("reverse string : "+reverseString);
+		System.out.println("Reverse string : "+reverseString);
 	}
 
 	public static void main(String[] args) {
